@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\frontend-test\resolver\adapter-order.adoc
+// Generated at: 2025-10-05T15:10:27.843Z
